@@ -13,7 +13,7 @@ def func():
                     break
                 else:
                     stack.pop()
-        if flag == False:
+        if flag == False: # ')'가 스택이 빈 경우 들어왔으므로 아래는 pass
             pass
         else:
             if len(stack) == 0:
