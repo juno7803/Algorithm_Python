@@ -1,6 +1,6 @@
 def func():
     for i in range(int(input())):
-        flag = True
+        flag = True # ')'가 들어왔는데, 스택이 빈 경우 False 처리
         stack = []
         bracket = list(input())
         for i in bracket:
