@@ -18,3 +18,4 @@
 >1966 [문제](https://www.acmicpc.net/problem/1966) [풀이](https://github.com/juno7803/Algorithm_Python/blob/main/1966%ED%94%84%EB%A6%B0%ED%84%B0%ED%81%90/1966.py)   
 >2943 [문제](https://www.acmicpc.net/problem/2943) [풀이](https://github.com/juno7803/Algorithm_Python/blob/main/2493%ED%83%91/2493.py)   
 >2309 [문제](https://www.acmicpc.net/problem/2309) [풀이](https://github.com/juno7803/Algorithm_Python/blob/main/2309%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4/2309.py)   
+>3085 [문제](https://www.acmicpc.net/problem/2309) [풀이](https://github.com/juno7803/Algorithm_Python/blob/main/3085%EC%82%AC%ED%83%95%EA%B2%8C%EC%9E%84/3085.py)   
