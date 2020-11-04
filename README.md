@@ -10,6 +10,12 @@
 |10월 4주차, 3주차|Silver IV |3085|[사탕 게임](https://www.acmicpc.net/problem/3085)      |완전탐색 |Oct 23, 2020|
 |10월 4주차, 3주차|Bronze II  |2309|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)      |완전탐색 |Oct 23, 2020|
 |10월 4주차, 3주차|Gold V |1107|[리모컨](https://www.acmicpc.net/problem/1107)      |완전탐색 |Oct 23, 2020| 
+|10월 5주차, 4주차|Silver IV |1764|[듣보잡](https://www.acmicpc.net/problem/1764)    |해시 |Oct 30, 2020|
+|10월 5주차, 4주차|Silver IV |1920|[수 찾기](https://www.acmicpc.net/problem/1920)   |해시 |Oct 30, 2020|
+|10월 5주차, 4주차|Silver V |1789|[수들의 합](https://www.acmicpc.net/problem/1789)   |해시 |Oct 30, 2020|
+|11월 1주차, 5주차|Silver III |2606|[바이러스](https://www.acmicpc.net/problem/2606)  |DFS, BFS |Nov 6, 2020|
+|11월 1주차, 5주차|Silver II |1260|[DFS와 BFS](https://www.acmicpc.net/problem/1260)  |DFS, BFS |Nov 6, 2020|
+|11월 1주차, 5주차|Silver I |2178|[미로 탐색](https://www.acmicpc.net/problem/2178)  |DFS, BFS |Nov 6, 2020|
 
      
 >4344 [문제](https://www.acmicpc.net/problem/4344)   [풀이](https://github.com/juno7803/Algorithm_Python/blob/main/4344%ED%8F%89%EA%B7%A0%EC%9D%80%EB%84%98%EA%B2%A0%EC%A7%80/4344.py)   
