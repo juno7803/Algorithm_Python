@@ -15,3 +15,4 @@ for i in range(n):
     else:
         heapq.heappush(heap,[-x,x])
 
+# https://www.daleseo.com/python-heapq/
