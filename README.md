@@ -18,6 +18,12 @@
 |11월 1주차, 5주차|Silver I |2178|[미로 탐색](https://www.acmicpc.net/problem/2178)  |DFS, BFS |Nov 6, 2020|
 |11월 2주차, 6주차|Gold V |19236|[아기상어](https://www.acmicpc.net/problem/19236)  |BFS |Nov 13, 2020|
 |11월 2주차, 6주차|Gold IV |1967|[트리의 지름](https://www.acmicpc.net/problem/1967)  |DFS |Nov 13, 2020|
+|11월 3주차, 2주차|Silver III |11399|[ATM](https://www.acmicpc.net/problem/11399) |Sort, Greedy |Nov 20, 2020|
+|11월 3주차, 2주차|Silver II |1931|[회의실배정](https://www.acmicpc.net/problem/1931) |Sort, Greedy |Nov 20, 2020|
+|11월 3주차, 2주차|Silver I |1946|[신입사원](https://www.acmicpc.net/problem/1946) |Sort, Greedy |Nov 20, 2020|
+|11월 4주차, 3주차|Silver III |15903|[카드 합체 놀이](https://www.acmicpc.net/problem/15903) |heap, Greedy |Nov 27, 2020|
+|11월 4주차, 3주차|Silver II |11279|[최대 힙](https://www.acmicpc.net/problem/11279) |heap |Nov 27, 2020|
+|11월 4주차, 3주차|Gold IV |1715|[카드 정렬하기](https://www.acmicpc.net/problem/1715) |heap |Nov 27, 2020|
 
      
 >4344 [문제](https://www.acmicpc.net/problem/4344)   [풀이](https://github.com/juno7803/Algorithm_Python/blob/main/4344%ED%8F%89%EA%B7%A0%EC%9D%80%EB%84%98%EA%B2%A0%EC%A7%80/4344.py)   
