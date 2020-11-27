@@ -8,11 +8,10 @@ heap = []
 for i in range(n):
     x = int(input())
     if (x == 0):
-        if(len(heap)!= 0):
-            val = heapq.heappop(heap)
-            print(val)
+        if(heap):
+            print(heapq.heappop(heap)[1])
         else:
             print(0)
     else:
-        heapq.heappush(heap,x)
+        heapq.heappush(heap,[-x,x])
 
