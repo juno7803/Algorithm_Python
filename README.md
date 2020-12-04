@@ -24,12 +24,3 @@
 |11월 4주차, 3주차|Silver III |15903|[카드 합체 놀이](https://www.acmicpc.net/problem/15903) |heap, Greedy |Nov 27, 2020| [풀이](https://github.com/juno7803/Algorithm_Python/blob/main/15903%EC%B9%B4%EB%93%9C%ED%95%A9%EC%B2%B4%EB%86%80%EC%9D%B4/15903.py)
 |11월 4주차, 3주차|Silver II |11279|[최대 힙](https://www.acmicpc.net/problem/11279) |heap |Nov 27, 2020| [풀이](https://github.com/juno7803/Algorithm_Python/blob/main/11279%EC%B5%9C%EB%8C%80%ED%9E%99/11279.py)
 |11월 4주차, 3주차|Gold IV |1715|[카드 정렬하기](https://www.acmicpc.net/problem/1715) |heap |Nov 27, 2020| [풀이](https://github.com/juno7803/Algorithm_Python/blob/main/1715%EC%B9%B4%EB%93%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/1715.py)
-
-     
->4344 [문제](https://www.acmicpc.net/problem/4344)   [풀이]()   
->9012 [문제](https://www.acmicpc.net/problem/9012) [풀이]()   
->17608 [문제](https://www.acmicpc.net/problem/17608)   [풀이]()   
->1966 [문제](https://www.acmicpc.net/problem/1966) [풀이]()   
->2943 [문제](https://www.acmicpc.net/problem/2943) [풀이]()   
->2309 [문제](https://www.acmicpc.net/problem/2309) [풀이]()   
->3085 [문제](https://www.acmicpc.net/problem/2309) [풀이]()   
