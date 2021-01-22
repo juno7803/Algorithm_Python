@@ -5,10 +5,10 @@ n = int(input())
 ele = []
 
 for i in range(n):
-    a,b = map(int,input().split())
-    ele.append([a,b])
-ele = sorted(ele, key=lambda x: x[0]) # a(첫 번째 원소로 정렬)
-ele = sorted(ele, key=lambda x: x[1]) # b(두 번째 원소로 정렬)
+    a, b = map(int, input().split())
+    ele.append([a, b])
+ele = sorted(ele, key=lambda x: x[0])  # a(첫 번째 원소로 정렬)
+ele = sorted(ele, key=lambda x: x[1])  # b(두 번째 원소로 정렬)
 # ele.sort(key=lambda x: (x[1],x[0])) # 와 같이 한번에 정렬 가능
 
 end = 0
