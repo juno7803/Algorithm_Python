@@ -1,19 +1,20 @@
 from sys import stdin
 input = stdin.readline
 
-n, long = map(int, input().split())
+n, m = map(int, input().split())
 a = []
 for i in range(n):
-    tmp = int(input())
-    a.append(tmp)
-
-short = min(a)
-while(True):
-    num = 0
+    a.append(int(input()))
+left, right = 1, max(a)
+while(left <= right):
+    cnt = 0
+    mid = (left + right) // 2
     for i in a:
-        num += int(i/short)
-    if(num >= long):
-        print(short)
-        break
-    else:
-        short -= 1
+        cnt += i // mid
+    if(cnt >= m):
+        left = mid+1
+        ans = mid
+    elif(cnt < m):
+        right = mid-1
+print(ans)
+# while(True)로 풀었을 때, 시간초과 뜨는 이유는 뭘까..?
