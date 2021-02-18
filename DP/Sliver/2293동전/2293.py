@@ -2,7 +2,6 @@ from sys import stdin
 input = stdin.readline
 
 n, k = map(int, input().split())
-coin = []
 dp = [0 for _ in range(k+1)]
 coin = [int(input()) for _ in range(n)]  # append 대신 이렇게 사용하기
 for c in coin:
