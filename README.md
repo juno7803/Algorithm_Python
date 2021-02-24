@@ -1,5 +1,4 @@
 # Algorithm_Python
-🙆‍♂️ 고리고리단 알고리즘 스터디 🙆‍♀️
 |주차          |Level     |문제번호 |제목     |분류 |제출 기한       |풀이     |
 |------------|----------|-----|-------|---|------------|-----|
 |10월 2주차, 1주차|Bronze I  |4344 |[평균은 넘겠지](https://www.acmicpc.net/problem/4344)|   |Oct 9, 2020 | [풀이](https://github.com/juno7803/Algorithm_Python/blob/main/4344%ED%8F%89%EA%B7%A0%EC%9D%80%EB%84%98%EA%B2%A0%EC%A7%80/4344.py)
