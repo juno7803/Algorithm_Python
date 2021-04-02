@@ -34,3 +34,6 @@ for row in ans:
     for num in row:
         print(num % 1000, end=" ")
     print()
+
+
+# 경우의 수 같은 곳에 많이 나옴 -> 반으로 분할하여 함 -> 홀수 짝수
